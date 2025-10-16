@@ -10,6 +10,5 @@ public class Ejercicio1 {
         System.out.println("Edad: "+edad);
         System.out.println();
         System.out.println("Vivo en: "+ciudad);
-        System.out.println("a ver si ya por fin puedes funcionar hijo de la gran putisisimamasmdsamasm");
     }
 }
