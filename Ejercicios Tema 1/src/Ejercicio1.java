@@ -5,8 +5,7 @@ public class Ejercicio1 {
         int edad = 26;
         String ciudad = "Valencia";
 
-        System.out.println("Mi nombre es: "+nombre);
-        System.out.println();
+        System.out.println("Mi nombre es: "+nombre+"\n");
         System.out.println("Edad: "+edad);
         System.out.println();
         System.out.println("Vivo en: "+ciudad);
