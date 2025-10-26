@@ -1,8 +1,8 @@
 public class Ejercicio5 {
 
-    private static final String aplicacion="MiApp";
-    private static final String version ="MiApp";
-    private static final double numeroPi= 3.14159;
+    public static final String aplicacion="MiApp";
+    public static final String version ="MiApp";
+    public static final double numeroPi= 3.14159;
 
     static void main(String[] args) {
         String usuarioActual= "Laura";

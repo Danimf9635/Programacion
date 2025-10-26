@@ -1,13 +1,10 @@
-public class Ejercicio1 {
+void main() {
+    String nombre = "Dani";
+    int edad = 26;
+    String ciudad = "Valencia";
 
-    static void main(String[] args) {
-        String nombre = "Dani";
-        int edad = 26;
-        String ciudad = "Valencia";
-
-        System.out.println("Mi nombre es: "+nombre+"\n");
-        System.out.println("Edad: "+edad);
-        System.out.println();
-        System.out.println("Vivo en: "+ciudad);
-    }
+    IO.println("Mi nombre es: " + nombre + "\n");
+    IO.println("Edad: " + edad);
+    IO.println();
+    IO.println("Vivo en: " + ciudad);
 }
