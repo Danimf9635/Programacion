@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c133487-a67f-482e-9d37-06eca38c0f20" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Ejercicios Tema 1/src/Ejercicio7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Programacion.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios Tema 1/src/Ejercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios Tema 1/src/Ejercicio1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios Tema 1/src/Ejercicio5.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios Tema 1/src/Ejercicio5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios Tema 1/src/Ejercicio6.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios Tema 1/src/Ejercicio6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Operadores Programación/operadores/src/Entrada.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Operadores Programación/operadores/src/Operadores.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ejercicios Tema 1/Ejercicio1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ejercicios Tema 1/Ejercicio2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ejercicios Tema 1/Ejercicio3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ejercicios Tema 1/Ejercicio4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ejercicios Tema 1/Ejercicio5.class" beforeDir="false" />
-    </list>
+    <list default="true" id="5c133487-a67f-482e-9d37-06eca38c0f20" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
